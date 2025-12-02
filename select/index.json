@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KICK BACK（Live with Daiki Tsuneta)",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-02T12:10:23.546582Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_KICK_BACK_米津玄師.txt"
+    }
+  ]
+}
